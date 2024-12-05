@@ -3,3 +3,4 @@ audio_utterance/
 final_context_videos/
 final_utterance_videos/
 augmented_utterance/
+**.npy
